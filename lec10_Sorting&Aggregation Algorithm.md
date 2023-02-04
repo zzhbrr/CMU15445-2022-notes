@@ -11,7 +11,7 @@
     - [Soring Aggregation](#soring-aggregation)
     - [Hasing Aggregation](#hasing-aggregation)
 
-
+ 
 # Lec10 Sorting & Aggregation Algorithms
 
 接下来将学习使用我们现在学习的DBMS组件来执行查询。
